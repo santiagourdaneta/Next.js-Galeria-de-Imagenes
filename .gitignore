@@ -1,0 +1,10 @@
+# Archivos y carpetas de Node.js
+node_modules/
+npm-debug.log*
+.env.local
+
+# Carpeta de build de Next.js
+.next/
+
+# Base de datos SQLite
+*.db
