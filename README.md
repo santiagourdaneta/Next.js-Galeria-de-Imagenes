@@ -26,20 +26,14 @@ cd Next.js-Galeria-de-Imagenes
 
 Instala las dependencias:
 
-Bash
-
 npm install
 
 Configura la base de datos y los datos de prueba:
-
-Bash
 
 # Borra la base de datos si existe y crea una nueva con 250 registros
 node seed.js
 
 Inicia el servidor de desarrollo:
-
-Bash
 
 npm run dev
 
